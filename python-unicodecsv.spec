@@ -6,7 +6,7 @@
 Summary:	Replacement for csv module which supports unicode strings without a hassle
 Name:		python-%{module}
 Version:	0.14.0
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages/Python
 Source0:	http://pypi.python.org/packages/source/u/unicodecsv/%{module}-%{version}.tar.gz
